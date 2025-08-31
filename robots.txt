@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mybuddoc.com/sitemap.xml
