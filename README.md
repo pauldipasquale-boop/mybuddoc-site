@@ -12,4 +12,4 @@ Suggested headers (set in Cloudflare):
 
 HIPAA: Do not collect PHI on site. After scheduling, send secure HIPAA intake/e-sign via a vendor with a BAA (DocuSign Enterprise, IntakeQ, Formstack HIPAA, SimplePractice, Jane, Jotform HIPAA).
 
-Last updated: 2025-08-31
+Last updated: 2025-08-31a
